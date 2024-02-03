@@ -1,5 +1,5 @@
 # Swipe Assignment
-Deployed link - 
+Deployed link - https://swipe-assignment-frontend-two.vercel.app/
 
 
 ### Try on your Machine
